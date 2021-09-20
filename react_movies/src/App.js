@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hola Mundo!
+          Hola a todos
         </a>
       </header>
     </div>
